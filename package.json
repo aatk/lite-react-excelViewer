@@ -1,0 +1,20 @@
+{
+  "name": "lite-react-excelViewer",
+  "version": "1.0.0",
+  "description": "Excel Viewer for XLSX",
+  "main": "ExcelGrid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aatk/lite-react-excelViewer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aatk/lite-react-excelViewer/issues"
+  },
+  "homepage": "https://github.com/aatk/lite-react-excelViewer#readme"
+}
